@@ -1,0 +1,15 @@
+{
+  "name": "json-template-service",
+  "version": "0.0.5",
+  "description": "Render Json templates from Json data",
+  "author": "Pablo Romanelli <promanelli@graphpath.ai>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.16.2",
+    "morgan": "1.9.0",
+    "stjs": "0.0.5"
+  }
+}
